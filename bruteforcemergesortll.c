@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 struct node
@@ -89,7 +88,7 @@ int main()
     // display(second);
     struct node* third=NULL;
     // int p=m+n;
-    int i=m+n=1;
+    int i=m+n+1;
     int j=0;
     struct node* temp1=first;
     struct node* temp2=second;
